@@ -1,0 +1,30 @@
+.container{
+    text-align: center;
+    margin: top 23px;
+}
+table{
+    margin: 0 auto;
+}
+input{
+    font-size:  34px;
+    border:4px solid #244624;
+    border-radius:  21px;
+}
+button{
+    font: size 23px; 
+    background: #978fa9;
+    width: 102px;
+    height: 58px;
+    border-radius: 20px;
+}
+.calculator{
+    background-color: #ff99f7;
+    display: inline-block;
+    border-radius:53px;
+    padding:40px;
+    margin: 40px;
+}
+h1{
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+}
